@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Software Enthusiast</h3>
 
 
-- 🔭 I’m currently working on ** IIIT DELHI CLOUD LABS**
+- 🔭 I’m currently working at **IIIT DELHI CLOUD LABS**
 
 - 🌱 I’m currently learning **Java and System Design**
 
-- 💬 Ask me about **Data Structure and algorithm **
+- 💬 Ask me about **Data Structure and algorithm**
 
 - 📫 How to reach me **swapnildubey3636@gmail.com**
 
