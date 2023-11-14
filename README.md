@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at **IIIT DELHI CLOUD LABS**
 
-- 🌱 I’m currently learning **Java and System Design**
+- 🌱 I’m currently learning **Software Developmet**
 
 - 💬 Ask me about **Data Structure and algorithm**
 
