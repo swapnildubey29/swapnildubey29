@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Dubey</h1>
 <h3 align="center">A passionate Software Enthusiast</h3>
 
-- 🔭 I’m currently working at **Ragilly Technologies**
+- 🔭 I’m currently working at **Guidona Softpedia**
 
 - 🌱 I’m currently learning **Software Development**
 
